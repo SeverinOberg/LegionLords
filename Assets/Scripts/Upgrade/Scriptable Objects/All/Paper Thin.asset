@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5ef606842cbfb14493f491f409231ca, type: 3}
+  m_Name: Paper Thin
+  m_EditorClassIdentifier: 
+  <ID>k__BackingField: 9
+  <Requires>k__BackingField: 0
+  <EntityID>k__BackingField: 8
+  <Icon>k__BackingField: {fileID: 21300000, guid: 615ecf391b0ba0b40a9c3882ac5e6afc,
+    type: 3}
+  <Title>k__BackingField: Paper Thin
+  <Description>k__BackingField: Increase your Sumonis 'Grip' ability duration.
+  <Cost>k__BackingField: 200
+  <ForAllUnits>k__BackingField: 0
+  <Properties>k__BackingField:
+  - <Key>k__BackingField: 14
+    <Value>k__BackingField: 3

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d93432e99af57843a838d089104497a, type: 3}
+  m_Name: Building Arcane Codex
+  m_EditorClassIdentifier: 
+  <Label>k__BackingField: Runic Bookshelf
+  <Description>k__BackingField: Spawns Arcane Codexs [Damage, Flying, Melee]
+  <Cost>k__BackingField: 150
+  <UnitNetworkObject>k__BackingField: {fileID: 3467903724072037332, guid: e0d633d5f9e65c643a7fdcec8a007c93,
+    type: 3}
+  <UnitEntityID>k__BackingField: 20
+  <SpawnInterval>k__BackingField: 50
+  <Income>k__BackingField: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7892d624bd20b247bebac1fdfc00e0a, type: 3}
+  m_Name: Wrath Spell Data
+  m_EditorClassIdentifier: 
+  ID: 0
+  Title: Wrath
+  Description: Put all your units into a frenzy for 20 seconds, increasting their
+    attack speed significantly!
+  Targetable: 0
+  Radius: 9999
+  Power: 2
+  Duration: 20
+  Prefab: {fileID: -3313715972191744905, guid: 9e15d2904a5634d4eb71955ec3a266aa, type: 3}

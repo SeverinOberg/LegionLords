@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7892d624bd20b247bebac1fdfc00e0a, type: 3}
+  m_Name: Doom Spell Data
+  m_EditorClassIdentifier: 
+  ID: 1
+  Title: Doom
+  Description: Kill every single unit within the spell's radius. Yes, even your own.
+    Will not affect buildings.
+  Targetable: 1
+  Radius: 15
+  Power: 9999
+  Duration: 0
+  Prefab: {fileID: 5489030356727916112, guid: 1facd0e863fd0d9489a88ba4014d4d97, type: 3}

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1b1e871b365c3d24592bbbbf7850748d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - <DefaultDeathPS>k__BackingField: {fileID: 5811780785918132632, guid: 1f0f337edd4410f4d8ce3e165dcf4db5,
+      type: 3}
+  - <MaterialTeam1>k__BackingField: {fileID: 2100000, guid: ca4d00d4a9b00464b86b2ca35808e44f,
+      type: 2}
+  - <MaterialTeam2>k__BackingField: {fileID: 2100000, guid: c880d76eed409e648a378decabe7d8f7,
+      type: 2}
+  - <TeamBase1>k__BackingField: {instanceID: 0}
+  - <TeamBase2>k__BackingField: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
